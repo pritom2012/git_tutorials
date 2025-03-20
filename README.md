@@ -1,2 +1,2 @@
-### Thi sis my forst commit 
-## PLease subscrib e to my channel
+### tbis is my first commit 
+##### please subscribe to my channel
